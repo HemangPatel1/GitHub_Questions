@@ -1,1 +1,7 @@
 Explain what git clone does, in your own words
+
+Git clone allows you to clone a repository, either local or remote so you get a copy of the project.
+
+When you clone a project, you get the entire history of the project locally and you get a working directory of the main branch of that project so that you can make your own changes.
+
+By default, Git will create a directory that is the same name as the project in the URL you give it. But you can change this by adding the name you want at the end of the URL.
