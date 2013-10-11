@@ -1,1 +1,4 @@
 Explain what a branch is, in your own words
+
+A branch lets you make a copy of a project that you can make separate commits to. It's particularly useful when developing features or fixing bugs as you are not making changes to the published/live version of your project.
+
